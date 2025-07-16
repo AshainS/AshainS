@@ -46,7 +46,7 @@ _“It is better to be a warrior in a garden, than a gardener in a war.” ― M
 
 <!-- ![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=AshainS.HTML-CSS-JS-Projects) -->
 
-[![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://platane.github.io/snk)
+<!-- [![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://platane.github.io/snk) -->
 
 
 
